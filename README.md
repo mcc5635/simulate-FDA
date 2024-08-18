@@ -1,4 +1,4 @@
-# Add requirements here
+# Requirements
 
 
 Gathering data on past clinical trial results to determine the profitability of a trading strategy that was able to perfectly predict trial outcomes. 
@@ -9,9 +9,4 @@ You will need two sources of data for this:
     #2 Stock prices from a variety of sources (NASDAQ, NYSE etc) that ran trials
         - Make graphs showing how the stock price of the company that ran the trial changed in the 180 days leading up to trial results being posted to ClinicalTrials.gov.
         Quantify how well clinical trial outcomes predict stock prices. 
-        
-        
-        Monte Carlo: Show the average and spread of the changes in stock prices over the preceding X days when trial outcomes are known.
-
-
-Show how well a maximally profitable trading strategy would perform (predict trial outcomes ahead of time)
+        - Monte Carlo: Show the average and spread of the changes in stock prices over the preceding X days when trial outcomes are known.
