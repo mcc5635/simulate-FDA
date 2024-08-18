@@ -1,7 +1,7 @@
 # Requirements
 
 
-Gathering data on past clinical trial results to determine the profitability of a trading strategy that was able to perfectly predict trial outcomes. 
+`Gathering data on past clinical trial results to determine the profitability of a trading strategy that was able to perfectly predict trial outcomes. `
 
 You will need two sources of data for this: 
     #1 Trial outcomes, which you can obtain from clinicaltrials.gov
