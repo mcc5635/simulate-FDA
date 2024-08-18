@@ -1,0 +1,2833 @@
+{
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558617",
+            "orgStudyIdInfo": {
+              "id": "CREC-023/2021"
+            },
+            "organization": {
+              "fullName": "Siriraj Hospital",
+              "class": "OTHER"
+            },
+            "briefTitle": "Diagnostic Performance of SARC-F, SARC-CalF, and Calf Circumference for Sarcopenia Screening in Thai Elderly Population",
+            "officialTitle": "Diagnostic Performance of SARC-F, SARC-CalF, and Calf Circumference for Sarcopenia Screening in Thai Elderly Population"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-03-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2022-08-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2022-08-31",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-10",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Panai Laohaprasitiporn, MD",
+              "investigatorTitle": "Assistant Professor",
+              "investigatorAffiliation": "Siriraj Hospital"
+            },
+            "leadSponsor": {
+              "name": "Siriraj Hospital",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "National Research Council of Thailand",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "As the elderly population grows, musculoskeletal disorders, including sarcopenia, have become a critical area of study due to their association with falls and fractures. Sarcopenia, characterized by decreased muscle mass, is prevalent among older adults and poses a significant risk for falls. This study aimed to assess the effectiveness of the SARC-F and SARC-CalF questionnaires, along with calf circumference measurements, in screening for sarcopenia among Thai community-dwelling older adults, following the Asian Working Group on Sarcopenia (AWGS) 2019 criteria.",
+            "detailedDescription": "The data utilized in this analysis were derived from the Thai Musculoskeletal Diseases Nationwide Study. This cross-sectional study targeted Thai adults aged 60 years and older, conducted between March 2021 and August 2022. Participants were sampled using a multi-level sampling technique to ensure representativeness from community-dwelling older adults across 12 provinces, encompassing Thailand's six primary geographical regions.\n\nParticipants were evaluated for possible sarcopenia or sarcopenia, according to AWGS 2019 criteria, by using SARC-F questionnaire, calf circumference measurement, SARC-CalF questionnaire, and appendicular skeletal muscle mass (ASM)."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Sarcopenia",
+              "Diagnosis"
+            ],
+            "keywords": [
+              "sarcopenia",
+              "calf circumference",
+              "SARC-F questionnaire",
+              "diagnostic accuracy",
+              "elderly"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "ECOLOGIC_OR_COMMUNITY",
+              "timePerspective": "CROSS_SECTIONAL"
+            },
+            "enrollmentInfo": {
+              "count": 2543,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Thai community-dwelling older adults",
+                "interventionNames": [
+                  "Diagnostic Test: SARC-F Questionnaire",
+                  "Diagnostic Test: Calf Circumference Measurement",
+                  "Diagnostic Test: SARC-CalF Questionnaire"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "SARC-F Questionnaire",
+                "description": "The SARC-F scale consists of five components: strength, walking assistance, rising from a chair, stair climbing, and falls. These elements were selected to reflect changes in health status related to the effects of sarcopenia. Scores on the SARC-F scale range from 0 to 10, composed of five domains, assesses strength, walking assistance, raising from a chair, stair climbing and falls. Each domain score ranges from 0-2. A SARC-F score of ≥4 was considered abnormal. The Thai-version SARC-F questionnaire has been validated in Thai older adults.",
+                "armGroupLabels": [
+                  "Thai community-dwelling older adults"
+                ]
+              },
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Calf Circumference Measurement",
+                "description": "Calf circumference was measured using a nonelastic tape measure while the participant was standing with relaxed legs. The tape was placed snugly and flat around the widest part of the calf, parallel to the floor. According to the AWGS 2019 criteria, calf circumferences were considered abnormal if they were less than 34 cm for males and less than 33 cm for females.",
+                "armGroupLabels": [
+                  "Thai community-dwelling older adults"
+                ]
+              },
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "SARC-CalF Questionnaire",
+                "description": "This questionnaire integrates the SARC-F and calf circumference as a trigger for case finding. If the calf circumference is below the cut-off value, 10 points are added to the SARC-F score for evaluation. The SARC-CalF score ranges from 0 to 20, with a score of ≥11 considered abnormal for sarcopenia screening.",
+                "armGroupLabels": [
+                  "Thai community-dwelling older adults"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Appendicular skeletal muscle mass (ASM)",
+                "description": "To assess appendicular skeletal muscle mass (ASM), we used the Tanita RD-545, a dual-frequency bioelectrical impedance analysis (BIA) device (Tanita Corporation, Tokyo, Japan). Previous studies have demonstrated that this BIA method is reliable and comparable to dual-energy X-ray absorptiometry (DXA) for diagnosing sarcopenia in Thai elderly adults. The appendicular skeletal muscle mass index (ASMI) was calculated by dividing the ASM by the square of the height. According to the 2019 criteria of the AWGS, low muscle mass is defined as \\<7.0 kg/m² for men and \\<5.7 kg/m² for women.",
+                "timeFrame": "up to 4 weeks"
+              },
+              {
+                "measure": "Handgrip strength",
+                "description": "Participants were asked to squeeze a digital Smedley spring hand dynamometer (Takei 5401 Digital Dynamometer; Takei, Tokyo, Japan) with maximum effort while standing with fully extended arms at their sides. The grip size was adjusted for each participant's hand size, and 2 or 3 trials were performed, with the highest output value recorded. Handgrip strengths \\< 28 kg in males and \\< 18 kg in females were classified as low muscle strength, per the AWGS 2019 criteria.",
+                "timeFrame": "up to 4 weeks"
+              },
+              {
+                "measure": "5-time sit-to-stand test (5TSTS)",
+                "description": "Participants were directed to sit upright on armless chairs with their backs supported firmly by the backrest. They were then instructed to stand up as quickly as possible for 5 repetitions with their arms crossed, trunk upright, and hips and knees fully extended. The time taken by each participant to complete the test from the initial sitting to the fifth sitting was recorded. The test is considered abnormal if it takes equal or more than 12 seconds to complete the task.",
+                "timeFrame": "up to 4 weeks"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Thai adults aged 60 years and older\n\nExclusion Criteria:\n\n* missing data on SARC-F, SARC-CalF, and calf circumference\n* unable to walk independently\n* bedridden individuals\n* neuromuscular disorders or severe comorbidities that could impair their ability to perform performance-based tests",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "60 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Community-dwelling older Thai adults living at that area for at least 1 year",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Apichat Asavamongkolkul, MD",
+                "affiliation": "Siriraj Hospital",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Faculty of Medicine Siriraj Hospital, Mahidol University",
+                "city": "Bangkoknoi",
+                "state": "Bangkok",
+                "zip": "10700",
+                "country": "Thailand",
+                "geoPoint": {
+                  "lat": 13.76266,
+                  "lon": 100.47798
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000055948",
+                "term": "Sarcopenia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000009133",
+                "term": "Muscular Atrophy"
+              },
+              {
+                "id": "D000020879",
+                "term": "Neuromuscular Manifestations"
+              },
+              {
+                "id": "D000009461",
+                "term": "Neurologic Manifestations"
+              },
+              {
+                "id": "D000009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D000001284",
+                "term": "Atrophy"
+              },
+              {
+                "id": "D000020763",
+                "term": "Pathological Conditions, Anatomical"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M28396",
+                "name": "Sarcopenia",
+                "asFound": "Sarcopenia",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M4589",
+                "name": "Atrophy",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M12090",
+                "name": "Muscular Atrophy",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M22619",
+                "name": "Neuromuscular Manifestations",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M12404",
+                "name": "Neurologic Manifestations",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M22519",
+                "name": "Pathological Conditions, Anatomical",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC10",
+                "name": "Nervous System Diseases"
+              },
+              {
+                "abbrev": "BC23",
+                "name": "Symptoms and General Pathology"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558500",
+            "orgStudyIdInfo": {
+              "id": "2022/113"
+            },
+            "organization": {
+              "fullName": "Etlik Zubeyde Hanım Women's Health Care, Training and Research Hospital",
+              "class": "OTHER"
+            },
+            "briefTitle": "Uterocervical Angle Versus Cervical Length as a Predictor of Labor Induction in Term Singleton Pregnancy",
+            "officialTitle": "Uterocervical and Posterior Cervical Angle Versus Cervical Length and Bishop's Score as a Predictor of Labor Induction in Term Singleton Pregnancy: a Prospective Study"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2024-06-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-08-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-08-02",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Ayse Gizem Yildiz",
+              "investigatorTitle": "md",
+              "investigatorAffiliation": "Etlik Zubeyde Hanım Women's Health Care, Training and Research Hospital"
+            },
+            "leadSponsor": {
+              "name": "Etlik Zubeyde Hanım Women's Health Care, Training and Research Hospital",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Induction of labor is frequently performed in all obstetric clinics. Failed IOL has been defined in many different ways.Bishop scoring, which is a traditional and subjective method, is more frequently evaluated with cervical length, which has taken its place in preterm labor, and various ultrasonographic evaluations such as Uterocervical angle (UCA), Posterior cervical angle (PCA), cervical elastography, transvulvar ultrasonography, which have recently increased in popularity, have gained importance and led us to evaluate these parameters in our clinic. The relationship between the angles between the uterus and cervix and labor has been known for some time.",
+            "detailedDescription": "Induction of labor is frequently performed in all obstetric clinics for various indications, with a worldwide spectrum ranging from 1.4 to 35%. Failed IOL has been defined in many different ways. It has been defined as a dilatation of less than 4 cm despite administration of oxytocin for 12 hours±3 hours (target 200-225 MVU or 3 contractions/10 min), induction of labor with oxytocin for at least 12-18 hours (after rupture of membranes) and a latent phase lasting 24 hours or longer, primarily considering fetal and maternal well-being. In some sources, it is defined as failure to achieve regular (e.g. every 3 minutes) uterine contractions and cervical changes with artificial rupture of membranes after at least 6-8 hours of oxytocin maintenance dose. For this reason, various subjective \\& ultrasonographic parameters used to predict induction success are of great importance for the evaluation of the cervix. Bishop scoring, which is a traditional and subjective method, is more frequently evaluated with cervical length, which has taken its place in preterm labor, and various ultrasonographic evaluations such as Uterocervical angle (UCA), Posterior cervical angle (PCA), cervical elastography, transvulvar ultrasonography, which have recently increased in popularity, have gained importance and led us to evaluate these parameters in our clinic.\n\nThe relationship between the angles between the uterus and cervix and labor has been known for some time."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Labor (Obstetrics)--Complications"
+            ],
+            "keywords": [
+              "Nulliparous",
+              "labor induction",
+              "posterior cervical angle",
+              "uterocervical angle",
+              "cervical length"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": true,
+            "targetDuration": "2 Days",
+            "designInfo": {
+              "observationalModel": "CASE_CONTROL",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 140,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "group 1",
+                "description": "delivered vaginally with successful induction of labor",
+                "interventionNames": [
+                  "Procedure: Uterocervical angle"
+                ]
+              },
+              {
+                "label": "group 2",
+                "description": "failed induction and delivered with C/S",
+                "interventionNames": [
+                  "Procedure: Uterocervical angle"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "PROCEDURE",
+                "name": "Uterocervical angle",
+                "description": "With the patient in the lithotomy position and empty bladder, care was taken to avoid applying pressure to the cervix with the transvaginal probe. The cervix was aligned in the midline, and the endocervical canal was visualized throughout its length.During cervical measurement, care was taken to ensure that the internal os, external os, and entire endocervical canal were visible in the same image. With the endocervical canal, external os, and internal os linearly displayed on the screen, the angle between the endocervical canal, anterior and posterior uterine segment was measured using the ultrasound's \"angle measurement\" feature.For the measurement of the uterocervical angle, the first line of the angle was defined along the endocervical canal used for measuring cervical length, and the second line was drawn from the internal os along the anterior uterine segment for a minimum of two centimeters. The angle between these two lines was recorded as the uterocervical angle in the form.",
+                "armGroupLabels": [
+                  "group 1",
+                  "group 2"
+                ],
+                "otherNames": [
+                  "Posterior cervical angle"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "The efficacy of uterocervical angle",
+                "description": "The efficacy of uterocervical angle in predicting labor induction success in nulliparous patients at term.",
+                "timeFrame": "2 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n37 weeks and older Nulliparity Live, singular Verteks presentation Cervical opening\\<3 cm Bishop score\\<7 Patients not in active action\n\nExclusion Criteria:\n\n* Presence of contraindications to vaginal delivery (pls previa, detached pls...)\n* History of previous uterine surgery\n* Multiple pregnancies\n* Non-vertex presentation\n* Uncontrolled HT Uncontrolled DM\n* Fetal distress\n* Macrosomic fetus Patients in active labor",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "40 Years",
+            "stdAges": [
+              "ADULT"
+            ],
+            "studyPopulation": "This prospective observational study was conducted at the Department of Obstetrics and Gynecology, Ankara Etlik Hospital, between June 2024 and August 2024, on 140 term pregnancies admitted for maternal or fetal reasons , planned for labor induction.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Ali Turhan ÇAĞLAR",
+                "affiliation": "Etlik Zübeyde Hanım EAH",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Etlik Zubeyde Hanım Women's Health Education Hospital",
+                "city": "Ankara",
+                "zip": "06000",
+                "country": "Turkey",
+                "geoPoint": {
+                  "lat": 39.91987,
+                  "lon": 32.85427
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558461",
+            "orgStudyIdInfo": {
+              "id": "173"
+            },
+            "organization": {
+              "fullName": "Can Tho University of Medicine and Pharmacy",
+              "class": "OTHER"
+            },
+            "briefTitle": "Nebulised 3% Hypertonic Saline in Infants With Acute Bronchiolitis",
+            "officialTitle": "Evaluating the Efficacy of Nebulised 3% Hypertonic Saline for Acute Bronchiolitis in Infants: A Study at Can Tho Children's Hospital, 2022-2024"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-06-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-05-27",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-05-28",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Can Tho University of Medicine and Pharmacy",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "This study aims to determine the efficacy of nebulising 3% hypertonic saline in improving clinical symptoms and reducing the length of hospital stay in infants with acute bronchiolitis.",
+            "detailedDescription": "Bronchiolitis is the most prevalent disease in infants, especially children younger than two years old. Clinical manifestations vary from mild to severe, even life-threatening respiratory failure. Airway oedema and mucus plugging are the principal pathological features in infants with acute bronchiolitis. Nebulising 3% hypertonic saline solution may reduce these pathological changes, but the evidence remains equivocal."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Acute Bronchiolitis"
+            ],
+            "keywords": [
+              "Bronchiolitis",
+              "3% hypertonic saline"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2",
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "A randomized controlled open-label parallel-arm clinical trial, with allocation 1:1, was conducted to investigate whether nebulizing 3% hypertonic saline will improve clinical symptoms and reduce the length of hospital stay in bronchiolitis compared with the control group.",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 140,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "3% hypertonic saline",
+                "type": "EXPERIMENTAL",
+                "description": "Children will receive standard medical care coordinating with nebulizing 3% hypertonic saline in the treatment of bronchiolitis. They received 4ml of 3% Sodium chloride, nebulized three times daily until discharge.",
+                "interventionNames": [
+                  "Drug: 3% Sodium Chloride"
+                ]
+              },
+              {
+                "label": "Control",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Children will only receive standard medical care.",
+                "interventionNames": [
+                  "Other: Standard care"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "3% Sodium Chloride",
+                "description": "4ml nebulized three times daily",
+                "armGroupLabels": [
+                  "3% hypertonic saline"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Standard care",
+                "description": "Standard care",
+                "armGroupLabels": [
+                  "Control"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Improve clinical severity score after three days of treatment with nebulized 3% hypertonic saline.",
+                "description": "The clinical severity score is a validated, self-reported instrument assessing clinical severity over treatment. Possible scores range from 0 (mild) to 12 (severity).",
+                "timeFrame": "three days"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Shorten the mean length of hospital stays in infants with bronchiolitis after treatment with nebulized 3% hypertonic saline.",
+                "description": "The mean length of hospital stays is the days from admission to discharge of all participants.",
+                "timeFrame": "From admission to discharge, up to 14 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Pediatric patients diagnosed with acute bronchiolitis from 1 to 24 months old at Can Tho Children's Hospital.\n\nExclusion Criteria:\n\n* Family members do not agree to let the child participate in the study.\n* Severe respiratory failure required mechanical ventilation.\n* The patient left on his own during treatment.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Month",
+            "maximumAge": "24 Months",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Van VuTuong Le, MD",
+                "affiliation": "Can Tho University of Medicine and Pharmacy",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Can Tho Children's Hospital",
+                "city": "Can Tho",
+                "zip": "900000",
+                "country": "Vietnam",
+                "geoPoint": {
+                  "lat": 10.03711,
+                  "lon": 105.78825
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "All collected individual participant data",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF",
+              "CSR"
+            ],
+            "timeFrame": "Starting 6 months after publication"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000001988",
+                "term": "Bronchiolitis"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000001991",
+                "term": "Bronchitis"
+              },
+              {
+                "id": "D000012141",
+                "term": "Respiratory Tract Infections"
+              },
+              {
+                "id": "D000007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000001982",
+                "term": "Bronchial Diseases"
+              },
+              {
+                "id": "D000012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D000008173",
+                "term": "Lung Diseases, Obstructive"
+              },
+              {
+                "id": "D000008171",
+                "term": "Lung Diseases"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M5264",
+                "name": "Bronchiolitis",
+                "asFound": "Bronchiolitis",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M5267",
+                "name": "Bronchitis",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M10283",
+                "name": "Infections",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M6368",
+                "name": "Communicable Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M14978",
+                "name": "Respiratory Tract Infections",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M5258",
+                "name": "Bronchial Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M14977",
+                "name": "Respiratory Tract Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M11170",
+                "name": "Lung Diseases, Obstructive",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M11168",
+                "name": "Lung Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "T170",
+                "name": "Acute Graft Versus Host Disease",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC01",
+                "name": "Infections"
+              },
+              {
+                "abbrev": "BC08",
+                "name": "Respiratory Tract (Lung and Bronchial) Diseases"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              },
+              {
+                "abbrev": "BC23",
+                "name": "Symptoms and General Pathology"
+              },
+              {
+                "abbrev": "Rare",
+                "name": "Rare Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558435",
+            "orgStudyIdInfo": {
+              "id": "252023"
+            },
+            "organization": {
+              "fullName": "Centro Hospitalar de Entre o Douro e Vouga",
+              "class": "OTHER"
+            },
+            "briefTitle": "Validation of BRACS to European Portuguese",
+            "officialTitle": "Translation and Validation of \"The Boston Residue and Clearance Scale\" to European Portuguese"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-03-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-03-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-05-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Daniela Ferreira",
+              "investigatorTitle": "MSc, SLP Daniela Ferreira",
+              "investigatorAffiliation": "Centro Hospitalar de Entre o Douro e Vouga"
+            },
+            "leadSponsor": {
+              "name": "Centro Hospitalar de Entre o Douro e Vouga",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this observational study is to translate and validate the fiberoptic endoscopic evaluation of swallowing scale \"The Boston Residue and Clearance Scale - BRACS\" to European Portuguese",
+            "detailedDescription": "The Boston Residue and Clearance Scale (BRACS) is a multidimensional scale developed and validated to assess the severity of residues observed during fiberoptic endoscopic evaluation of swallowing (FEES).\n\nIt differs from other FEES residue scales, since it considers all aspects related to pharyngolaryngeal residues, specifically, the location, amount and the patient's clearance ability.\n\nThe purpose of this study was to translate and cross-culturally adapt the English version of the BRACS into European Portuguese and to investigate the reliability and validity of the translated version of the scale."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Deglutition Disorders",
+              "Swallowing Disorder",
+              "Dysphagia, Oropharyngeal"
+            ],
+            "keywords": [
+              "Swallowing Disorders",
+              "Dysphagia",
+              "Fiberoptic Endoscopic Evaluation of Swallowing"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "RETROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 16,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "FEES",
+                "description": "Single group",
+                "otherNames": [
+                  "Fiberoptic Endoscopic Evaluation of Swallowing"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Reliable and validated European Portuguese version of the BRACS",
+                "description": "Cultural adaptation and validation of BRACS to European Portuguese",
+                "timeFrame": "Baseline"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* FEES recording that allowed good visualisation of the pharynx and larynx.\n* FEES recording of patients after head and neck surgery who had anatomical alterations of the structures, but which did not interfere with good visualisation of the residues.\n* FEES recording of patients with a tracheostomy or under tube feeding.\n\nExclusion Criteria:\n\n* FEES recording of patients under 18 years of age.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Patients with neurological or mechanical dysphagia who have undergone a FEES examination and whose test meets the inclusion criteria described above.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "Centro Hospitalar de Entre Douro e Vouga",
+                "city": "Santa Maria Da Feira",
+                "zip": "4520-211",
+                "country": "Portugal",
+                "geoPoint": {
+                  "lat": 40.92726,
+                  "lon": -8.54839
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000003680",
+                "term": "Deglutition Disorders"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000004935",
+                "term": "Esophageal Diseases"
+              },
+              {
+                "id": "D000005767",
+                "term": "Gastrointestinal Diseases"
+              },
+              {
+                "id": "D000004066",
+                "term": "Digestive System Diseases"
+              },
+              {
+                "id": "D000010608",
+                "term": "Pharyngeal Diseases"
+              },
+              {
+                "id": "D000010038",
+                "term": "Otorhinolaryngologic Diseases"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M6882",
+                "name": "Deglutition Disorders",
+                "asFound": "Deglutition Disorders",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M8085",
+                "name": "Esophageal Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M8883",
+                "name": "Gastrointestinal Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M7255",
+                "name": "Digestive System Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M13515",
+                "name": "Pharyngeal Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M12961",
+                "name": "Otorhinolaryngologic Diseases",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC06",
+                "name": "Digestive System Diseases"
+              },
+              {
+                "abbrev": "BC09",
+                "name": "Ear, Nose, and Throat Diseases"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              },
+              {
+                "abbrev": "BC07",
+                "name": "Mouth and Tooth Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558097",
+            "orgStudyIdInfo": {
+              "id": "CXXB750A02101"
+            },
+            "organization": {
+              "fullName": "Novartis",
+              "class": "INDUSTRY"
+            },
+            "briefTitle": "Safety, Tolerability, and Pharmacokinetics of XXB750 in Healthy Participants",
+            "officialTitle": "A First-in-human, Randomized, Sponsor Open-label, Participant and Investigator Blinded, Placebo-controlled, Single Ascending Dose Study to Explore the Safety, Tolerability and Pharmacokinetics of XXB750 in Healthy Participants"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2020-07-29",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-03-02",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-03-31",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Novartis Pharmaceuticals",
+              "class": "INDUSTRY"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study was a randomized, participant and investigator-blinded, placebo-controlled, single-ascending dose study, consisting of 9 sequential dose cohorts (1 mg, 3 mg, 10 mg, 30 mg, 60 mg, 120 mg, 240 mg, 450 mg and 600 mg) and a Japanese ethnic sensitivity cohort (240 mg dose)",
+            "detailedDescription": "Eligible healthy participants with normal blood pressure (SBP: 110-139 mmHg; DBP: 70-89 mmHg) were randomized into dose cohorts 1 - 240 mg. Eligible healthy participants with elevated blood pressure (SBP: 139 - 159 mmHg; DBP: 75 - 95 mmHg) were randomized into dose cohorts 450 and 600 mg. Each participant received a subcutaneous single dose of either XXB750 or placebo. In total, the duration of the study was 151 days, including the full Screening period of up to 28 days, safety, pharmacokinetics and pharmacodynamics assessments over a period of 91 days, and a 30-day safety follow up call after the end of study visit.\n\nSentinel dosing will be applied in this FIH study at each new dose level to ensure participant's safety and minimize the number of participants that may experience symptomatic hypotension, especially for sustained periods of time attributing to the long acting nature of XXB750 and the sustained pharmacological effects on BP at higher doses. The 10-day safety monitoring for the sentinel cohort is considered sufficient based on the predicted mean Tmax (4.5 days) in humans."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "XXB750 in Healthy Participants"
+            ],
+            "keywords": [
+              "XXB750",
+              "healthy participants"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "DOUBLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "INVESTIGATOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 77,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "XXB750 s.c 1 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 1 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 3 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 3 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 10 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 10 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 30 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 30 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 60 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 60 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 120 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 120 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 240 mg",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 240 mg",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "Placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Placebo to XXB750",
+                "interventionNames": [
+                  "Other: Placebo"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 240 mg Japanese cohort",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 240 mg in the Japanese cohort",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "Placebo for Japanese cohort",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Placebo to XXB750 in the Japanese cohort",
+                "interventionNames": [
+                  "Other: Placebo"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 450 mg (HBP)",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 450 mg (High Blood Pressure Cohort)",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "XXB750 s.c 600 mg (HBP)",
+                "type": "EXPERIMENTAL",
+                "description": "Single SC dose of XXB750 600 mg (High Blood Pressure Cohort)",
+                "interventionNames": [
+                  "Drug: XXB750"
+                ]
+              },
+              {
+                "label": "Placebo to High Blood Pressure cohort",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Placebo to XXB750 in High Blood Pressure cohorts",
+                "interventionNames": [
+                  "Other: Placebo"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "XXB750",
+                "description": "Single SC dose of XXB750 (administered by single or multiple injections)",
+                "armGroupLabels": [
+                  "XXB750 s.c 1 mg",
+                  "XXB750 s.c 10 mg",
+                  "XXB750 s.c 120 mg",
+                  "XXB750 s.c 240 mg",
+                  "XXB750 s.c 240 mg Japanese cohort",
+                  "XXB750 s.c 3 mg",
+                  "XXB750 s.c 30 mg",
+                  "XXB750 s.c 450 mg (HBP)",
+                  "XXB750 s.c 60 mg",
+                  "XXB750 s.c 600 mg (HBP)"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Placebo",
+                "description": "Single SC dose of matching placebo (administered by single or multiple injections)",
+                "armGroupLabels": [
+                  "Placebo",
+                  "Placebo for Japanese cohort",
+                  "Placebo to High Blood Pressure cohort"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Number of participants with Adverse Events",
+                "description": "To evaluate the safety and tolerability of single ascending SC doses of XXB750 in healthy participants.\n\nAdverse events may include abnormal vital signs, safety laboratory tests, physical exam tests and ECG parameters that include clinical signs or symptoms, are considered clinically significant or require therapy.",
+                "timeFrame": "Up to 121 days"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Pharmacokinetics parameters: Tmax",
+                "description": "To evaluate the pharmacokinetics: Time to maximum concentation (Tmax) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: Cmax",
+                "description": "To evaluate the pharmacokinetics: Peak plasma concentration (Cmax) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: AUClast",
+                "description": "To evaluate the pharmacokinetics: Area under the plasma concentration curve (AUClast) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: AUCinf",
+                "description": "To evaluate the pharmacokinetics: Area under the curve (AUCinf) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: T1/2",
+                "description": "To evaluate the pharmacokinetics: Half-life (T1/2) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: Vz/F",
+                "description": "To evaluate the pharmacokinetics: Vd/F of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              },
+              {
+                "measure": "Pharmacokinetics parameters: CL/F",
+                "description": "To evaluate the pharmacokinetics: Apparent clearance (CL/F) of XXB750 in healthy participants following a single SC dose of XXB750.",
+                "timeFrame": "Up to 91 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy male and female participants age 18 to 50 years of age included, and in good health as determined by past medical history, physical examination, vital signs, electrocardiogram, and laboratory tests at screening.\n* Participants must weigh at least 50 kg to participate in the study, and must have a body mass index (BMI) within the range of 18 - 32 kg/m2. BMI = Body weight (kg) / \\[Height (m)\\]2\n* For ethnic Japanese cohort: participants must be defined as being of first, second or third generation ethnic origin, with each set of parents qualifying as Japanese under the prior generation.\n\nExclusion Criteria:\n\n* Any surgical or medical condition which significantly altered the distribution, metabolism, or excretion of drugs, or which jeopardized the participant's participation in the study.\n* Known history or current clinically significant arrhythmias.\n* Women of child-bearing potential were excluded from this study.",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "50 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Novartis Pharmaceuticals",
+                "affiliation": "Novartis Pharmaceuticals",
+                "role": "STUDY_DIRECTOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Novartis Investigative Site",
+                "city": "Cypress",
+                "state": "California",
+                "zip": "90630",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 33.81696,
+                  "lon": -118.03729
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558084",
+            "orgStudyIdInfo": {
+              "id": "CDKTOX2024"
+            },
+            "organization": {
+              "fullName": "Ain Shams University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Real-World Clinical Outcomes and Toxicity in Metastatic Breast Cancer Patients Treated With First or Second Line CDK 4/6 Inhibitors and Endocrine Therapy",
+            "officialTitle": "Real-World Clinical Outcomes and Toxicity in Metastatic Breast Cancer Patients Treated With First or Second Line CDK 4/6 Inhibitors and Endocrine Therapy"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-07-06",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-07-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-08-10",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Asmaa Ali",
+              "investigatorTitle": "Assistant lecturer",
+              "investigatorAffiliation": "Ain Shams University"
+            },
+            "leadSponsor": {
+              "name": "Ain Shams University",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "To assess CDK4/6i toxicity and effect on PFS in the Egyptian population"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Toxicity, Drug",
+              "Progression, Disease"
+            ],
+            "keywords": [
+              "Breast cancer",
+              "CDK4/6 inhibitor",
+              "toxicity",
+              "PFS"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 64,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Metastatic breast cancer patients",
+                "description": "metastatic breast cancer patient receiving CDK4/6i in 1st or 2nd line",
+                "interventionNames": [
+                  "Drug: CDK4/6 Inhibitor"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "CDK4/6 Inhibitor",
+                "description": "CDK4/6 inhibitor in first and second lines",
+                "armGroupLabels": [
+                  "Metastatic breast cancer patients"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Adverse effect",
+                "description": "assess the toxicity profile",
+                "timeFrame": "2 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "PFS",
+                "description": "PFS in patient receiving CDK4/6i in Egypt",
+                "timeFrame": "2 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients aged 18 years old or more\n* Female patients\n* Histologically proven invasive breast cancer\n* Histologically proven HR-positive and HER2-negative breast cancer\n* Metastatic breast cancer (Stage 4 according to AJCC 8th edition 2017)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 to 3.\n* Adequate hematological and organs function\n* Patients receiving CDK 4/6 inhibitor combined with endocrine therapy(Aromatase inhibitors , GnRH agonists, fulvastrent). as a first or second line treatment\n\nExclusion Criteria:\n\n* - Male breast cancer patients\n* Patients in, visceral crisis (defined as : severe organ dysfunction, as assessed by signs and symptoms, laboratory studies and rapid progression of disease ) that are at risk of life threatening complication in the short term.\n* Prior treatment with any CDK 4/6 inhibitor.\n* History of any other cancer , unless in complete remission with no therapy for a minimum of 3 years.\n* Have active bacterial or fungal infection, or detectable viral infection.",
+            "healthyVolunteers": false,
+            "sex": "FEMALE",
+            "genderBased": true,
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Breast Cancer patients attending Ain Shams University Clinical Oncology and Nuclear Medicine Department breast clinic from July 2022 till December 2024",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "Ainshams University",
+                "city": "Cairo",
+                "country": "Egypt",
+                "geoPoint": {
+                  "lat": 30.06263,
+                  "lon": 31.24967
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000018450",
+                "term": "Disease Progression"
+              },
+              {
+                "id": "D000064420",
+                "term": "Drug-Related Side Effects and Adverse Reactions"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D000010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D000064419",
+                "term": "Chemically-Induced Disorders"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M20559",
+                "name": "Disease Progression",
+                "asFound": "Progression, Disease",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M5220",
+                "name": "Breast Neoplasms",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M30303",
+                "name": "Drug-Related Side Effects and Adverse Reactions",
+                "asFound": "Toxicity, Drug",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M22700",
+                "name": "Disease Attributes",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M30302",
+                "name": "Chemically-Induced Disorders",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC23",
+                "name": "Symptoms and General Pathology"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              },
+              {
+                "abbrev": "BC04",
+                "name": "Neoplasms"
+              },
+              {
+                "abbrev": "BC17",
+                "name": "Skin and Connective Tissue Diseases"
+              },
+              {
+                "abbrev": "BC25",
+                "name": "Substance Related Disorders"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558058",
+            "orgStudyIdInfo": {
+              "id": "BE. 786/EQL/2023"
+            },
+            "organization": {
+              "fullName": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            },
+            "briefTitle": "Bioequivalence Study of Rivaroxaban 10 mg Film-coated Tablets",
+            "officialTitle": "Bioequivalence Study of Rivaroxaban 10 mg Film-Coated Tablet Produced by PT Dexa Medica in Comparison With the Comparator Drug (Xarelto® 10 mg Film-Coated Tablet, Manufactured by Bayer AG, Germany, Imported by PT Bayer Indonesia, Indonesia) When Administered Under Fasting Condition in Healthy Subjects"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-06-08",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-06-16",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-08-29",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            },
+            "collaborators": [
+              {
+                "name": "PT Equilab International",
+                "class": "INDUSTRY"
+              }
+            ]
+          },
+          "oversightModule": {
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study was an open-label, randomized, single-dose, two-period, two-sequence, two-way crossover study under fasting conditions which included 28 healthy adult male and female subjects. The objective of this study was to compare whether the bioavailability of PT Dexa Medica's formulation of rivaroxaban 10 mg film-coated tablet is equivalent to that of the comparator drug (Xarelto® 10 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) when administered under fasting condition in healthy subjects.",
+            "detailedDescription": "The objective of this study was to compare whether the bioavailability of PT Dexa Medica's formulation of rivaroxaban 10 mg film-coated tablet is equivalent to that of the comparator drug (Xarelto® 10 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) when administered under fasting condition in healthy subjects. This was an open-label, randomized, single-dose, two-period, two-sequence, two-way crossover study under fasting conditions which included 28 healthy adult male and female subjects. The participating subjects were required to have an 8 hours overnight fast and in the next morning (first day of period) were given orally the test drug (rivaroxaban 10 mg film-coated tablet produced by PT Dexa Medica) or the comparator drug (Xarelto® 10 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) with total 200 mL of water. The subject's oral cavity was checked thoroughly to confirm complete medication and fluid consumption after dosing. Blood samples were drawn before taking the drug (control), and at 0.33, 0.67, 1.00, 1.33, 1.67, 2.00, 2.33, 2.67, 3.00, 3.33, 3.67, 4.00, 4.33, 4.67, 5.00, 6.00, 8.00, 12.00, 24.00 and 36.00 hours after drug administration. These blood samples were used to investigate the pharmacokinetic parameters of rivaroxaban following single dose administration."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Healthy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "interventionModelDescription": "This was a bioequivalence study.",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 28,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Test Rivaroxaban 10 mg PT Dexa Medica",
+                "type": "EXPERIMENTAL",
+                "description": "Rivaroxaban 10 mg Film-coated Tablet, produced by PT Dexa Medica, Indonesia",
+                "interventionNames": [
+                  "Drug: Rivaroxaban 10 mg film-coated tablet"
+                ]
+              },
+              {
+                "label": "Reference Xarelto 10 mg Bayer",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Xarelto 10 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia",
+                "interventionNames": [
+                  "Drug: Xarelto 10 mg film-coated tablet"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Rivaroxaban 10 mg film-coated tablet",
+                "description": "One tablet of the test drug was given orally after an overnight fast.",
+                "armGroupLabels": [
+                  "Test Rivaroxaban 10 mg PT Dexa Medica"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Xarelto 10 mg film-coated tablet",
+                "description": "One tablet of the reference drug was given orally after an overnight fast.",
+                "armGroupLabels": [
+                  "Reference Xarelto 10 mg Bayer"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "AUC(0-t)",
+                "description": "Area under the plasma concentration-time curve to the last observer quantifiable concentration at time t",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "Cmax",
+                "description": "Maximum plasma concentration",
+                "timeFrame": "36 hours"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "AUC(0-inf)",
+                "description": "Area under the plasma concentration-time curve extrapolated to infinitive time",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "T1/2",
+                "description": "Plasma half-life",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "Tmax",
+                "description": "Time taken to reach maximum observed plasma concentration",
+                "timeFrame": "36 hours"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Able to participate, communicate well with the investigators and willing to provide written informed consent to participate in the study.\n2. Healthy male and female subjects with absence of significant disease or clinically significant abnormal laboratory values on laboratory evaluation, medical history or physical examination during screening and could be considered healthy based on the evaluation.\n3. Aged 18 - 55 years inclusive.\n4. Non-smokers.\n5. Body mass index within 18 to 25 kg/m2.\n6. Vital signs (after 10 minutes rest) must be within the following ranges:\n\n   * Systolic blood pressure: 100 - 129 mmHg\n   * Diastolic blood pressure: 60 - 84 mmHg\n   * Pulse rate: 60 - 90 bpm.\n7. Willing to practice abstention or contraception during the study.\n8. Prothrombin time (PT) and activated partial thromboplastin time (aPTT) values should be within normal range.\n9. Normal renal function with acceptable creatinine clearance (CrCl) \\>50 mL/min.\n\nExclusion Criteria:\n\n1. History of allergy or hypersensitivity or contraindication to rivaroxaban or factor Xa inhibitors or allied drugs.\n2. Pregnant or lactating female (urinary pregnancy test was applied to female subjects at screening and before taking the study drug).\n3. Any major illness in the past 90 days or clinically significant ongoing chronic medical illness.\n4. Presence of any clinically significant abnormal values during screening e.g. significant abnormality of liver function test (AST, ALT, alkaline phosphatase, total bilirubin, direct bilirubin ≥ 1.5 ULN), renal function test (serum creatinine concentration \\> 1.4 mg/dL and ureum ≥ 1.5 ULN), etc.\n5. Patient with significant liver disease (severe hepatic impairment/Child Pugh C).\n6. Positive Hepatitis B surface antigen (HBsAg), anti-HCV, or anti-HIV.\n7. Positive result for COVID-19 rapid antigen test (this criteria only applied if the study conduct during pandemic condition).\n8. Clinically significant hematology abnormalities.\n9. Clinically significant electrocardiogram (ECG) abnormalities.\n10. Any surgical or medical condition (present or history) which might significantly alter the absorption, distribution, metabolism or excretion of the study drug, e.g. gastrointestinal disease including gastric or duodenal ulcers or history of gastric surgery.\n11. Past history of anaphylaxis or angioedema.\n12. History of drug or alcohol abuse within 12 months prior to screening for this study.\n13. Participation in any clinical trial within the past 90 days calculated from the last visit until this study's first dosing day.\n14. History of any bleeding or coagulative disorders.\n15. History of significant head or spinal cord injury or recent surgery on the brain, spinal cord or eyes.\n16. Presence of difficulty in accessibility of veins in left or right arm.\n17. A donation or significant blood loss within 90 days before this study's first dosing day.\n18. Intake of any prescription, non-prescription drug (including hormonal contraception), food supplements or herbal medicines within 21 days of this study's first dosing day.",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "55 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "PT Equilab International",
+                "city": "Jakarta",
+                "zip": "12430",
+                "country": "Indonesia",
+                "geoPoint": {
+                  "lat": -6.21462,
+                  "lon": 106.84513
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069552",
+                "term": "Rivaroxaban"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000065427",
+                "term": "Factor Xa Inhibitors"
+              },
+              {
+                "id": "D000000991",
+                "term": "Antithrombins"
+              },
+              {
+                "id": "D000015842",
+                "term": "Serine Proteinase Inhibitors"
+              },
+              {
+                "id": "D000011480",
+                "term": "Protease Inhibitors"
+              },
+              {
+                "id": "D000004791",
+                "term": "Enzyme Inhibitors"
+              },
+              {
+                "id": "D000045504",
+                "term": "Molecular Mechanisms of Pharmacological Action"
+              },
+              {
+                "id": "D000000925",
+                "term": "Anticoagulants"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M463",
+                "name": "Rivaroxaban",
+                "asFound": "DNA",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M30513",
+                "name": "Factor Xa Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4307",
+                "name": "Antithrombins",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4306",
+                "name": "Antithrombin III",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M14343",
+                "name": "Protease Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M18391",
+                "name": "Serine Proteinase Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M19609",
+                "name": "HIV Protease Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M7951",
+                "name": "Enzyme Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4244",
+                "name": "Anticoagulants",
+                "relevance": "LOW"
+              },
+              {
+                "id": "T18",
+                "name": "Serine",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "AnCoag",
+                "name": "Anticoagulants"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Drugs and Chemicals"
+              },
+              {
+                "abbrev": "Infe",
+                "name": "Anti-Infective Agents"
+              },
+              {
+                "abbrev": "AA",
+                "name": "Amino Acids"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558045",
+            "orgStudyIdInfo": {
+              "id": "BE. 787/EQL/2023"
+            },
+            "organization": {
+              "fullName": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            },
+            "briefTitle": "Bioequivalence Study of Rivaroxaban 20 mg Film-coated Tablets",
+            "officialTitle": "Bioequivalence Study of Rivaroxaban 20 mg Film-Coated Tablet Produced by PT Dexa Medica in Comparison With the Comparator Drug (Xarelto® 20 mg Film-Coated Tablet, Manufactured by Bayer AG, Germany, Imported by PT Bayer Indonesia, Indonesia) When Administered Under Fed Condition in Healthy Subjects"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-07-06",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-07-18",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-10-02",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            }
+          },
+          "oversightModule": {
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study was an open-label, randomized, single-dose, two-period, two-sequence, two-way crossover study under fed conditions which included 28 healthy adult male and female subjects. The objective of this study was to compare whether the bioavailability of PT Dexa Medica's formulation of rivaroxaban 20 mg film-coated tablet is equivalent to that of the comparator drug (Xarelto® 20 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) when administered under fed condition in healthy subjects.",
+            "detailedDescription": "The objective of this study was to compare whether the bioavailability of PT Dexa Medica's formulation of rivaroxaban 20 mg film-coated tablet is equivalent to that of the comparator drug (Xarelto® 20 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) when administered under fed condition in healthy subjects. This was an open-label, randomized, single-dose, two-period, two-sequence, two-way crossover study under fed conditions which included 28 healthy adult male and female subjects. The participating subjects were given orally the test drug (rivaroxaban 20 mg film-coated tablet produced by PT Dexa Medica) or the comparator drug (Xarelto® 20 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia) with total 200 mL of water 30 minutes after the subjects have consumed a standardized high fat meal as breakfast meal in the first day of each period. Subjects had to ingest meal within 30 minutes or less.\n\nStart and end of breakfast were documented. The subject's oral cavity was checked thoroughly to confirm complete medication and fluid consumption after dosing. Blood samples were drawn before taking the drug (control), and at 0.50, 1.00, 1.33, 1.67, 2.00, 2.33, 2.67, 3.00, 3.33, 3.67, 4.00, 4.33, 4.67, 5.00, 5.50, 6.00, 8.00, 12.00, 24.00 and 36.00 hours after drug administration. These blood samples were used to investigate the pharmacokinetic parameters of rivaroxaban following single dose administration. The plasma concentrations of rivaroxaban were determined by using a validated ultra-performance liquid chromatography with tandem mass spectrometry detection (UPLC-MS/MS)."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Healthy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "interventionModelDescription": "This was a bioequivalence study",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 26,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Test Rivaroxaban 20 mg PT Dexa Medica",
+                "type": "EXPERIMENTAL",
+                "description": "Rivaroxaban 20 mg Film-coated Tablet, produced by PT Dexa Medica, Indonesia",
+                "interventionNames": [
+                  "Drug: Rivaroxaban 20 mg film-coated tablet"
+                ]
+              },
+              {
+                "label": "Reference Xarelto 20 mg Bayer",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Xarelto® 20 mg Film-Coated Tablet, manufactured by Bayer AG, Germany, imported by PT Bayer Indonesia, Indonesia",
+                "interventionNames": [
+                  "Drug: Xarelto 20 mg film-coated tablet"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Rivaroxaban 20 mg film-coated tablet",
+                "description": "One tablet of the test drug was given orally 30 minutes after subjects have consumed a standardized high fat meal as breakfast",
+                "armGroupLabels": [
+                  "Test Rivaroxaban 20 mg PT Dexa Medica"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Xarelto 20 mg film-coated tablet",
+                "description": "One tablet of the reference drug was given orally 30 minutes after subjects have consumed a standardized high fat meal as breakfast",
+                "armGroupLabels": [
+                  "Reference Xarelto 20 mg Bayer"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "AUC(0-t)",
+                "description": "Area under the plasma concentration-time curve to the last observer quantifiable concentration at time t",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "Cmax",
+                "description": "Maximum plasma concentration",
+                "timeFrame": "36 hours"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "AUC(0-inf)",
+                "description": "Area under the plasma concentration-time curve extrapolated to infinitive time",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "T1/2",
+                "description": "Plasma half-life",
+                "timeFrame": "36 hours"
+              },
+              {
+                "measure": "Tmax",
+                "description": "Time taken to reach maximum observed plasma concentration",
+                "timeFrame": "36 hours"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Able to participate, communicate well with the investigators and willing to provide written informed consent to participate in the study.\n2. Healthy male and female subjects with absence of significant disease or clinically significant abnormal laboratory values on laboratory evaluation, medical history or physical examination during screening and could be considered healthy based on the evaluation.\n3. Aged 18 - 55 years inclusive.\n4. Non-smokers.\n5. Body mass index within 18 to 25 kg/m2.\n6. Vital signs (after 10 minutes rest) must be within the following ranges:\n\n   * Systolic blood pressure: 100 - 129 mmHg\n   * Diastolic blood pressure: 60 - 84 mmHg\n   * Pulse rate: 60 - 90 bpm.\n7. Willing to practice abstention or contraception during the study.\n8. Prothrombin time (PT) and activated partial thromboplastin time (aPTT) values should be within normal range.\n9. Normal renal function with acceptable creatinine clearance (CrCl) \\>50 mL/min.\n\nExclusion Criteria:\n\n1. History of allergy or hypersensitivity or contraindication to rivaroxaban or factor Xa inhibitors or allied drugs.\n2. Pregnant or lactating female (urinary pregnancy test was applied to female subjects at screening and before taking the study drug).\n3. Any major illness in the past 90 days or clinically significant ongoing chronic medical illness.\n4. Presence of any clinically significant abnormal values during screening e.g. significant abnormality of liver function test (AST, ALT, alkaline phosphatase, total bilirubin, direct bilirubin ≥ 1.5 ULN), renal function test (serum creatinine concentration \\> 1.4 mg/dL and ureum ≥ 1.5 ULN), etc.\n5. Patient with significant liver disease (severe hepatic impairment/Child Pugh C).\n6. Positive Hepatitis B surface antigen (HBsAg), anti-HCV, or anti-HIV.\n7. Positive result for COVID-19 rapid antigen test (this criteria only applied if the study conduct during pandemic condition).\n8. Clinically significant hematology abnormalities.\n9. Clinically significant electrocardiogram (ECG) abnormalities.\n10. Any surgical or medical condition (present or history) which might significantly alter the absorption, distribution, metabolism or excretion of the study drug, e.g. gastrointestinal disease including gastric or duodenal ulcers or history of gastric surgery.\n11. Past history of anaphylaxis or angioedema.\n12. History of drug or alcohol abuse within 12 months prior to screening for this study.\n13. Participation in any clinical trial within the past 90 days calculated from the last visit until this study's first dosing day.\n14. History of any bleeding or coagulative disorders.\n15. History of significant head or spinal cord injury or recent surgery on the brain, spinal cord or eyes.\n16. Presence of difficulty in accessibility of veins in left or right arm.\n17. A donation or significant blood loss within 90 days before this study's first dosing day.\n18. Intake of any prescription, non-prescription drug (including hormonal contraception), food supplements or herbal medicines within 21 days of this study's first dosing day.",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "55 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "PT Equilab International",
+                "city": "Jakarta",
+                "zip": "12430",
+                "country": "Indonesia",
+                "geoPoint": {
+                  "lat": -6.21462,
+                  "lon": 106.84513
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "browseLeaves": [
+              {
+                "id": "M25306",
+                "name": "Malnutrition",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC18",
+                "name": "Nutritional and Metabolic Diseases"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069552",
+                "term": "Rivaroxaban"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000065427",
+                "term": "Factor Xa Inhibitors"
+              },
+              {
+                "id": "D000000991",
+                "term": "Antithrombins"
+              },
+              {
+                "id": "D000015842",
+                "term": "Serine Proteinase Inhibitors"
+              },
+              {
+                "id": "D000011480",
+                "term": "Protease Inhibitors"
+              },
+              {
+                "id": "D000004791",
+                "term": "Enzyme Inhibitors"
+              },
+              {
+                "id": "D000045504",
+                "term": "Molecular Mechanisms of Pharmacological Action"
+              },
+              {
+                "id": "D000000925",
+                "term": "Anticoagulants"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M463",
+                "name": "Rivaroxaban",
+                "asFound": "DNA",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M30513",
+                "name": "Factor Xa Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4307",
+                "name": "Antithrombins",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4306",
+                "name": "Antithrombin III",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M14343",
+                "name": "Protease Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M18391",
+                "name": "Serine Proteinase Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M19609",
+                "name": "HIV Protease Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M7951",
+                "name": "Enzyme Inhibitors",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M4244",
+                "name": "Anticoagulants",
+                "relevance": "LOW"
+              },
+              {
+                "id": "T18",
+                "name": "Serine",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "AnCoag",
+                "name": "Anticoagulants"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Drugs and Chemicals"
+              },
+              {
+                "abbrev": "Infe",
+                "name": "Anti-Infective Agents"
+              },
+              {
+                "abbrev": "AA",
+                "name": "Amino Acids"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06558032",
+            "orgStudyIdInfo": {
+              "id": "BE. 827/EQL/2023"
+            },
+            "organization": {
+              "fullName": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            },
+            "briefTitle": "Bioequivalence Study of Tamsulosin 0.4 mg Sustained Release Film-coated Tablets",
+            "officialTitle": "Bioequivalence Study of Tamsulosin 0.4 mg Sustained Release Film Coated Tablet Produced by PT Dexa Medica in Comparison With The Comparator Drug (Harnal® Ocas 0.4 mg Prolonged Release Tablet Produced by Astellas Pharma Europe B.V., The Netherlands, Imported by PT Combiphar, Indonesia) When Administered Under Fasting Condition in Healthy Subjects"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-11-06",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-12-16",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-02-07",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-14",
+            "studyFirstSubmitQcDate": "2024-08-14",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Dexa Medica Group",
+              "class": "INDUSTRY"
+            }
+          },
+          "oversightModule": {
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study was an open-label, randomized, single-dose, four-period, two-sequence, fully replicate study under fasting conditions which included 28 healthy adult male subjects. The objective of this study was to find out whether the bioavailability of tamsulosin 0.4 mg sustained release film coated tablet produced by PT Dexa Medica is equivalent to that of the comparator drug (Harnal® OCAS 0.4 mg Prolonged Release Tablet produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia) when administered under fasting condition in healthy subjects.",
+            "detailedDescription": "The objective of this study was to find out whether the bioavailability of tamsulosin 0.4 mg sustained release film coated tablet produced by PT Dexa Medica is equivalent to that of the comparator drug (Harnal® OCAS 0.4 mg Prolonged Release Tablet produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia) when administered under fasting condition in healthy subjects. This was an open-label, randomized, single-dose, four-period, two-sequence, fully replicate study under fasting conditions which included 28 healthy adult male subjects. The participating subjects were required to have an 8 hours overnight fast and in the next morning (first day of period) were given orally the test drug (tamsulosin 0.4 mg sustained release film coated tablet produced by PT Dexa Medica) or the comparator drug (Harnal® OCAS 0.4 mg Prolonged Release Tablet produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia) with total 200 mL of water. The subjects' oral cavity was checked thoroughly to confirm complete medication and fluid consumption after dosing. Blood samples were drawn before taking the drug (control), and at 1.00, 2.00, 3.00, 4.00, 5.00, 6.00, 7.00, 8.00, 9.00, 10.00, 11.00, 12.00, 18.00, 24.00, 36.00, 48.00 and 72.00 hours after drug administration. These blood samples were used to investigate the pharmacokinetic parameters of Tamsulosin following single dose administration. The plasma concentrations of Tamsulosin were determined by using validated ultra-performance liquid chromatography with tandem mass spectroscopy detection (UPLC-MS/MS method)."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Healthy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "interventionModelDescription": "This was a bioequivalence study",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 28,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Test Tamsulosin 0.4 SR PT Dexa Medica",
+                "type": "EXPERIMENTAL",
+                "description": "Tamsulosin 0.4 mg Sustained Release Tablet (produced by PT Dexa Medica, Indonesia)",
+                "interventionNames": [
+                  "Drug: Tamsulosin 0.4 mg Sustained Release Tablet (produced by PT Dexa Medica, Indonesia)"
+                ]
+              },
+              {
+                "label": "Reference Harnal OCAS 0.4 mg PR Astellas, Combiphar",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Harnal® OCAS 0.4 mg Prolonged Release Tablet (produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia)",
+                "interventionNames": [
+                  "Drug: Harnal® OCAS 0.4 mg Prolonged Release Tablet (produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia)"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Tamsulosin 0.4 mg Sustained Release Tablet (produced by PT Dexa Medica, Indonesia)",
+                "description": "One tablet of the test drug was given orally under fasting condition",
+                "armGroupLabels": [
+                  "Test Tamsulosin 0.4 SR PT Dexa Medica"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Harnal® OCAS 0.4 mg Prolonged Release Tablet (produced by Astellas Pharma Europe B.V., The Netherlands, imported by PT Combiphar, Indonesia)",
+                "description": "One tablet of the test drug was given orally under fasting condition",
+                "armGroupLabels": [
+                  "Reference Harnal OCAS 0.4 mg PR Astellas, Combiphar"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "AUC(0-t)",
+                "description": "Area under the plasma concentration-time curve to the last observer quantifiable concentration at time t",
+                "timeFrame": "72 hours"
+              },
+              {
+                "measure": "Cmax",
+                "description": "Maximum plasma concentration",
+                "timeFrame": "72 hours"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "AUC(0-inf)",
+                "description": "Area under the plasma concentration-time curve extrapolated to infinitive time",
+                "timeFrame": "72 hours"
+              },
+              {
+                "measure": "T1/2",
+                "description": "Plasma half-life",
+                "timeFrame": "72 hours"
+              },
+              {
+                "measure": "Tmax",
+                "description": "Time taken to reach maximum observed plasma concentration",
+                "timeFrame": "72 hours"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Able to participate, communicate well with the investigators and willing to provide written informed consent to participate in the study.\n2. Healthy male subjects with absence of significant disease or clinically significant abnormal laboratory values on laboratory evaluation, medical history or physical examination during screening and could be considered healthy based on the evaluation.\n3. Aged 18 - 55 years inclusive.\n4. Preferably non-smokers or smoke less than 10 cigarettes per day.\n5. Body mass index within 18 to 25 kg/m2.\n6. Vital signs (after 10 minutes rest) must be within the following ranges:\n\n   * Systolic blood pressure: 110 - 129 mmHg\n   * Diastolic blood pressure: 70 - 84 mmHg\n   * Pulse rate: 60 - 90 bpm.\n7. Willing to practice abstention or non-hormonal contraception during the study.\n\nExclusion Criteria:\n\n1. History of allergy or hypersensitivity or contraindication to tamsulosin or allied drug.\n2. Any major illness in the past 90 days or clinically significant ongoing chronic medical illness.\n3. Presence of any clinically significant abnormal values during screening e.g. significant abnormality of liver function test (AST, ALT, alkaline phosphatase, total bilirubin, direct bilirubin ≥ 1.5 ULN), renal function test (serum creatinine concentration \\> 1.4 mg/dL and ureum ≥ 1.5 ULN), etc.\n4. Positive Hepatitis B surface antigen (HBsAg), anti-HCV, or anti-HIV.\n5. Clinically significant hematology abnormalities.\n6. Clinically significant electrocardiogram (ECG) abnormalities.\n7. Any surgical or medical condition (present or history) which might significantly alter the absorption, distribution, metabolism or excretion of the study drug, e.g. gastrointestinal disease including gastric or duodenal ulcers or history of gastric surgery.\n8. Past history of anaphylaxis or angioedema.\n9. History of drug or alcohol abuse within 12 months prior to screening for this study.\n10. Participation in any clinical trial within the past 90 days calculated from the last visit until this study's first dosing day.\n11. History of any bleeding or coagulative disorders.\n12. Presence of difficulty in accessibility of veins in left or right arm.\n13. A donation or significant blood loss within 90 days before this study's first dosing day.\n14. Intake of any prescription (especially tamsulosin), non-prescription drug (including hormonal contraception), food supplements or herbal medicines within 21 days of this study's first dosing day.\n15. History of orthostatic hypotension.\n16. Scheduled for cataract or glaucoma surgery within 14 days after dosing.",
+            "healthyVolunteers": true,
+            "sex": "MALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "55 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "PT Equilab International",
+                "city": "Jakarta",
+                "zip": "12430",
+                "country": "Indonesia",
+                "geoPoint": {
+                  "lat": -6.21462,
+                  "lon": 106.84513
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000077409",
+                "term": "Tamsulosin"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000058668",
+                "term": "Adrenergic alpha-1 Receptor Antagonists"
+              },
+              {
+                "id": "D000000317",
+                "term": "Adrenergic alpha-Antagonists"
+              },
+              {
+                "id": "D000018674",
+                "term": "Adrenergic Antagonists"
+              },
+              {
+                "id": "D000018663",
+                "term": "Adrenergic Agents"
+              },
+              {
+                "id": "D000018377",
+                "term": "Neurotransmitter Agents"
+              },
+              {
+                "id": "D000045504",
+                "term": "Molecular Mechanisms of Pharmacological Action"
+              },
+              {
+                "id": "D000045505",
+                "term": "Physiological Effects of Drugs"
+              },
+              {
+                "id": "D000064804",
+                "term": "Urological Agents"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M1790",
+                "name": "Tamsulosin",
+                "asFound": "Endotracheal",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M20746",
+                "name": "Adrenergic Agents",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M29194",
+                "name": "Adrenergic alpha-1 Receptor Antagonists",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M3669",
+                "name": "Adrenergic alpha-Antagonists",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M20755",
+                "name": "Adrenergic Antagonists",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M20504",
+                "name": "Neurotransmitter Agents",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "Urol",
+                "name": "Urological Agents"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Drugs and Chemicals"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06557837",
+            "orgStudyIdInfo": {
+              "id": "0120-22/2023/47"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "AOS-Startup-23-028",
+                "type": "OTHER_GRANT",
+                "domain": "AO Spine"
+              }
+            ],
+            "organization": {
+              "fullName": "University Medical Centre Ljubljana",
+              "class": "OTHER"
+            },
+            "briefTitle": "Evaluation of Deterioration in Body Posture of Older Patients During Gait Compared to Stance",
+            "officialTitle": "Evaluation of Deterioration in Body Posture of Older Patients During Gait Compared to Stance"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-09-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-05-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-05-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2024-08-07",
+            "studyFirstSubmitQcDate": "2024-08-13",
+            "studyFirstPostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2024-08-13",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-08-16",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Armand Dominik Škapin",
+              "investigatorTitle": "Principal Investigator",
+              "investigatorAffiliation": "University Medical Centre Ljubljana"
+            },
+            "leadSponsor": {
+              "name": "University Medical Centre Ljubljana",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "AO Foundation, AO Spine",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this observational study is to analyze how spinal alignment changes when walking compared to standing still in adults aged 50 to 80 years who have sagittal imbalance. The main questions we aim to answer are:\n\n1. Do patients with radiological parameters indicative of sagittal imbalance experience a statistically significant deterioration in sagittal balance during walking compared to a control group?\n2. Do radiographs taken after six minutes of walking provide comparable results to dynamic measurements during the walking test?\n3. Do patients with a greater deterioration in sagittal balance during walking show poorer clinical self-assessment scores?\n4. Is there a significant correlation between parameters obtained using established diagnostic methods and the degree of sagittal balance deterioration during walking?\n\nParticipants will be divided into two groups: patients with radiological indicators of sagittal imbalance and a control group of healthy individuals with back pain of similar age. Participants will:\n\n1. Complete questionnaires about their back pain and mobility.\n2. Have X-ray images taken of their spine before and after walking for six minutes.\n3. Undergo muscle strength tests and gait analysis using motion capture and electromyography (EMG) to monitor muscle activity while walking."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Degenerative Spine Disease",
+              "Sagittal Balance"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "CASE_CONTROL",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 64,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Patients with sagittal imbalance",
+                "description": "Patients that have pelvic incidence-lumbar lordosis deficit (PI-LL) greater than 10 or sagittal vertical axis (SVA) greater than 4 centimetres on X-ray imaging.",
+                "interventionNames": [
+                  "Diagnostic Test: Questionnaires and pain assessment",
+                  "Diagnostic Test: Standing sagittal whole spine X-ray",
+                  "Diagnostic Test: Dynamic test",
+                  "Diagnostic Test: Muscle strength and body composition measurement"
+                ]
+              },
+              {
+                "label": "Control group",
+                "description": "Participants with normal pelvic incidence-lumbar lordosis deficit (PI-LL) and sagittal vertical axis (SVA) on X-ray imaging.",
+                "interventionNames": [
+                  "Diagnostic Test: Questionnaires and pain assessment",
+                  "Diagnostic Test: Standing sagittal whole spine X-ray",
+                  "Diagnostic Test: Dynamic test",
+                  "Diagnostic Test: Muscle strength and body composition measurement"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Questionnaires and pain assessment",
+                "description": "Participants complete two questionnaires: the Oswestry Disability Index (ODI) and the EQ-5D-5L. They also rate their low back pain using the Visual Analogue Score (VAS) scale and respond to two additional questions about their posture and gait.",
+                "armGroupLabels": [
+                  "Control group",
+                  "Patients with sagittal imbalance"
+                ]
+              },
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Standing sagittal whole spine X-ray",
+                "description": "Participants undergo standard preoperative X-ray imaging of the entire spine to capture the upright posture. This imaging is conducted before and after 6-minute of continuous walking to compare changes in spino-pelvic and sagittal balance parameters.",
+                "armGroupLabels": [
+                  "Control group",
+                  "Patients with sagittal imbalance"
+                ]
+              },
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Dynamic test",
+                "description": "With the dynamic test, we analyze body movements of participants during gait using 49 reflective markers placed on their bodies according to the Qualisys PAF package: Instituti Ortopedici Rizzoli (IOR) and 10 EMG electrodes on specific leg and back muscles. Participants walk for 6 minutes between two cones set 7 meters apart, while a 12-camera Qualisys Motion Capture System tracks marker movements for comprehensive kinematic analysis. Data are recorded at five key moments: standing before and after the test, and during three phases of gait (at the beginning, middle, and end). Participants are barefoot and dressed in underwear for accurate measurement. Static recordings before and after walking involve stepping on a tensiometric force plate to measure the center of gravity. Before the test, participants perform stretching exercises to ensure consistent preparation.",
+                "armGroupLabels": [
+                  "Control group",
+                  "Patients with sagittal imbalance"
+                ]
+              },
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Muscle strength and body composition measurement",
+                "description": "Participants have their body composition analyzed and the maximum isometric strength of their paraspinal and abdominal muscles measured using the Dr. Wolff BackCheck device.",
+                "armGroupLabels": [
+                  "Control group",
+                  "Patients with sagittal imbalance"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Change in C7-STS During Gait",
+                "description": "The change in the value of the C7 - sagittal trunk shift (C7-STS) will be measured at five points during the dynamic test. The measurement is in millimeters. C7-STS is defined as the distance between vertical line through the marker placed on spinous process C7 and the marker on spinous process L5.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in AM-STS During Gait",
+                "description": "The change in the value of the Auditory meatus - sagittal trunk shift (AM-STS) will be measured at five points during the dynamic test. The measurement is in millimeters. AM-STS is defined as the distance between vertical line through the middle of the markers placed on each side of the head just above the ear and the middle of the markers placed on both greater trochanters.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in SVA on X-ray During Walking",
+                "description": "A comparison of the Sagittal Vertical Axis (SVA) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in millimeters. SVA is measured as the horizontal distance between a vertical line from the center of the C7 vertebra and the posterior superior corner of the sacrum on a sagittal X-ray.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in CAM-HA on X-ray During Walking",
+                "description": "A comparison of the Center of Auditory Meatus to Hip Axis Plumbline (CAM-HA) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in millimeters. CAM-HA is measured as the horizontal distance between a vertical line from the center of auditory meatus and the axis of the femoral heads on a sagittal X-ray.",
+                "timeFrame": "At enrollment"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Change in PA During Gait",
+                "description": "The change in the value of the Pelvic angle (PA) will be measured at five points during the dynamic test. The measurement is in degrees. PA is defined as the angle between the markers placed on the posterior superior iliac spines and anterior superior iliac spines and horizontal plane.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in LLA During Gait",
+                "description": "The change in the value of the Lumbar lordosis angle (LLA) will be measured at five points during the dynamic test. The measurement is in degrees. LLA is defined as the angle between the markers placed on spinous processes of L1, L3 and L5.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in TKA During Gait",
+                "description": "The change in the value of the Thoracic kyphosis angle (TKA) will be measured at five points during the dynamic test. The measurement is in degrees. TKA is defined as the angle between the markers placed on spinous process of C7, spinous process of vertebra between the inferior edge of the scapulae and spinous process L1.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in STA During Gait",
+                "description": "The change in the value of the Sagittal trunk angle (STA) will be measured at five points during the dynamic test. The measurement is in degrees. STA is defined as the angle between the line connecting the middle of the markers placed on each side of the head just above the ear and the middle of the markers placed on both greater trochanters and vertical line.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in GTA During Gait",
+                "description": "The change in the value of the Global tilt angle (GTA) will be measured at five points during the dynamic test. The measurement is in degrees. GTA is defined as the angle between the markers placed on spinous process C7, L5 and the middle of the markers placed on both greater trochanters.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Change in PT on X-ray During Walking",
+                "description": "A comparison of the Pelvic Tilt (PT) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. PT is defined as the angle between the vertical and the line connecting the center of the sacral endplate to the axis of the femoral heads on a sagittal X-ray.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in SS on X-ray During Walking",
+                "description": "A comparison of the Sacral Slope (SS) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. SS is defined as the angle between a line tangent to the upper S1 endplate and horizontal line.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in LL on X-ray During Walking",
+                "description": "A comparison of the Lumbar Lordosis (LL) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. LL is defined as the angle between the superior endplate of the first lumbar vertebra and the superior endplate of the first sacral vertebra.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in TK on X-ray During Walking",
+                "description": "A comparison of the Thoracic Kyphosis (TK) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. TK is defined as the angle between the superior endplate of the first thoracic vertebra and the inferior endplate of the twelfth thoracic vertebra.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in PI-LL on X-ray During Walking",
+                "description": "A comparison of the Pelvic Incidence-Lumbar Lordosis Deficit (PI-LL) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. PI-LL is defined as the difference between the pelvic incidence (PI) and lumbar lordosis (LL) angles.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in Angle of the hip on X-ray During Walking",
+                "description": "A comparison of the Angle of the Hip in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. Angle of the Hip is defined as the angle between the line connecting the center of the sacral endplate to the axis of the femoral heads and the line drawn from the axis of the femoral heads along the femoral shaft.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in OD-HA on X-ray During Walking",
+                "description": "A comparison of the Odontoid Hip Axis Angle (OD-HA) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. OD-HA is defined as the angle between the vertical and the highest point of the odontoid process (dens) connecting to the center of the acetabulum (bi-coxo-femoral axis).",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Change in GT on X-ray During Walking",
+                "description": "A comparison of the Global Tilt (GT) in an upright stance, as captured by X-ray imaging, before and after 6 minutes of continuous walking. The measurement is in degrees. GT is defined as the angle between a vertical line and a line drawn from the center of the C7 vertebra to the center of the sacral endplate.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Oswestry Disability Index (ODI) Questionnaire",
+                "description": "The Oswestry Disability Index (ODI) is a questionnaire used to assess a patient's level of disability related to lower back pain. It is scored on a scale from 0 to 100%, where higher scores indicate worse outcomes.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "EQ-5D-5L Questionnaire",
+                "description": "The European Quality of Life in 5 Dimensions and 5 Levels (EQ-5D-5L) is a standardized questionnaire used to measure a patient's health-related quality of life across five dimensions and five levels. It is scored on a scale from -0,573 to 1, where higher scores indicate better outcomes.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Visual Analogue Score (VAS) for low back pain",
+                "description": "The Visual Analogue Score (VAS) for low back pain is a tool used to measure patient's pain intensity in the lower back. It is scored on a scale from 0 to 10, where higher scores indicate worse outcomes.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Additional Question: Is it hard for you to stand upright?",
+                "description": "The additional question \"Is it hard for you to stand upright?\" is assessed with a \"yes\" or \"no\" response, where \"yes\" indicates a worse outcome, signifying difficulty in maintaining an upright posture.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Additional Question: Does your body lean forward during gait?",
+                "description": "The additional question \"Does your body lean forward during gait?\" is assessed with a \"yes\" or \"no\" response, where \"yes\" indicates a worse outcome, signifying a forward lean during walking.",
+                "timeFrame": "At enrollment"
+              },
+              {
+                "measure": "Maximum Isometric Strength of the Paraspinal Muscles",
+                "description": "The maximum isometric strength of the paraspinal muscles is measured using the Dr. Wolff BackCheck device. The muscle strength is recorded in Newton-meters (Nm) and then adjusted according to the participant's body weight for accurate comparison.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Maximum Isometric Strength of the Abdominal Muscles",
+                "description": "The maximum isometric strength of the abdominal muscles is measured using the Dr. Wolff BackCheck device. The muscle strength is recorded in Newton-meters (Nm) and then adjusted according to the participant's body weight for accurate comparison.",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Skeletal Muscle Mass",
+                "description": "Patients have their skeletal muscle mass measured using the InBody 720 device, with the results recorded in kilograms (kg).",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Body Fat Mass",
+                "description": "Patients have their body fat mass measured using the InBody 720 device, with the results recorded in kilograms (kg).",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Body Fat Percentage",
+                "description": "Patients have their body fat percentage measured using the InBody 720 device, with the results recorded as a percentage (%).",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Total Body Water",
+                "description": "Patients have their total body water measured using the InBody 720 device, with the results recorded in liters (L).",
+                "timeFrame": "Within 2 months from enrollment"
+              },
+              {
+                "measure": "Extracellular Water / Total Body Water",
+                "description": "Patients have their extracellular water versus total body water proportion measured using the InBody 720 device, with the results recorded as a ratio.",
+                "timeFrame": "Within 2 months from enrollment"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Pelvic incidence-lumbar lordosis deficit (PI-LL) greater than 10 or sagittal vertical axis (SVA) greater than 4 centimeters\n* The main symptom is low back pain\n* Age between 50-80 years.\n\nExclusion Criteria:\n\n* Symptoms of spinal stenosis\n* Previous instrumented spinal surgery\n* Cobb angle greater than 30°\n* Symptoms of hip or knee arthrosis\n* Symptoms of vascular intermittent claudication\n* Cardio-pulmonary disease that lowers the patient's physical capability\n* Neuromuscular disease",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "50 Years",
+            "maximumAge": "80 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Participants are selected from the outpatient clinic at the specialized orthopedic department of the University Medical Centre Ljubljana.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "Faculty of Sport, University of Ljubljana",
+                "city": "Ljubljana",
+                "zip": "1000",
+                "country": "Slovenia",
+                "geoPoint": {
+                  "lat": 46.05108,
+                  "lon": 14.50513
+                }
+              },
+              {
+                "facility": "University Medical Centre Ljubljana",
+                "city": "Ljubljana",
+                "zip": "1000",
+                "country": "Slovenia",
+                "geoPoint": {
+                  "lat": 46.05108,
+                  "lon": 14.50513
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2024-08-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000013122",
+                "term": "Spinal Diseases"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000001847",
+                "term": "Bone Diseases"
+              },
+              {
+                "id": "D000009140",
+                "term": "Musculoskeletal Diseases"
+              }
+            ],
+            "browseLeaves": [
+              {
+                "id": "M15919",
+                "name": "Spinal Diseases",
+                "asFound": "Spine Disease",
+                "relevance": "HIGH"
+              },
+              {
+                "id": "M5126",
+                "name": "Bone Diseases",
+                "relevance": "LOW"
+              },
+              {
+                "id": "M12097",
+                "name": "Musculoskeletal Diseases",
+                "relevance": "LOW"
+              }
+            ],
+            "browseBranches": [
+              {
+                "abbrev": "BC05",
+                "name": "Musculoskeletal Diseases"
+              },
+              {
+                "abbrev": "All",
+                "name": "All Conditions"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ],
+    "nextPageToken": "NF0o5JOZm_ggyA4xDI3Cv-Wrj9KbfJBv"
+  }

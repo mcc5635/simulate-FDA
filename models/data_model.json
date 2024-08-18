@@ -1,0 +1,221 @@
+{
+  "Clinical_trials_df": {
+    "NCT_ID": [
+      "NCT04450394", "NCT00822094", "NCT02385994", "NCT04497194", 
+      "NCT02146794", "NCT03489694", "NCT02827994", "NCT03181594", 
+      "NCT00227994", "NCT00313560"
+    ],
+    "org_study_id": [
+      "17056", "CLTR0308-205", "C-14-EN01", "COVID19-VR", 
+      "ICCH-10/065", "STE-2018", "PCEDCSS_FMUP 5/2015", "CT-0003", 
+      "K23MH064196-01", "J0534"
+    ],
+    "organization_name": [
+      "Eli Lilly and Company", "Jazz Pharmaceuticals", "Cutera Inc.", 
+      "Azienda Ospedaliera Universitaria Integrata Verona", 
+      "Imperial College London", "University of Saskatchewan", 
+      "Aveiro University", "Arrinex, Inc.", 
+      "University of Pittsburgh", 
+      "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins"
+    ],
+    "Organization_Class": [
+      "INDUSTRY", "INDUSTRY", "INDUSTRY", "OTHER", "OTHER", 
+      "OTHER", "OTHER", "INDUSTRY", "OTHER", "OTHER"
+    ],
+    "Overall_Status": [
+      "COMPLETED", "COMPLETED", "COMPLETED", "COMPLETED", 
+      "COMPLETED", "COMPLETED", "COMPLETED", "COMPLETED", 
+      "COMPLETED", "COMPLETED"
+    ],
+    "Study_Type": [
+      "INTERVENTIONAL", "INTERVENTIONAL", "INTERVENTIONAL", 
+      "OBSERVATIONAL", "INTERVENTIONAL", "OBSERVATIONAL", 
+      "INTERVENTIONAL", "INTERVENTIONAL", 
+      "INTERVENTIONAL", "INTERVENTIONAL"
+    ],
+    "Phases": [
+      "PHASE2", "PHASE2", "NA", "NA", "PHASE1", "NA", 
+      "NA", "NA", "PHASE4", "PHASE2"
+    ],
+    "Allocation": [
+      "RANDOMIZED", "RANDOMIZED", "RANDOMIZED", "NA", "NA", 
+      "NA", "RANDOMIZED", "NA", "NON_RANDOMIZED", "NA"
+    ],
+    "Intervention_Model": [
+      "PARALLEL", "PARALLEL", "PARALLEL", "NA", "SINGLE_GROUP", 
+      "NA", "PARALLEL", "SINGLE_GROUP", "PARALLEL", "SINGLE_GROUP"
+    ],
+    "Primary_Purpose": [
+      "TREATMENT", "TREATMENT", "TREATMENT", "NA", "TREATMENT", 
+      "NA", "TREATMENT", "TREATMENT", "TREATMENT", "TREATMENT"
+    ],
+    "Enrollment_Count": [
+      278, 126, 80, 430, 7, 17, 43, 100, 40, 48
+    ],
+    "Enrollment_Type": [
+      "ACTUAL", "ACTUAL", "ESTIMATED", "ACTUAL", "ACTUAL", 
+      "ACTUAL", "ACTUAL", "ACTUAL", "ACTUAL", "ACTUAL"
+    ]
+  },
+  "Primary_Outcomes": {
+    "measure": [
+      "Change From Baseline in Hemoglobin A1c (HbA1c)", 
+      "Proportion of Subjects Surviving at 1 Year", 
+      "Investigator Assessment measured by 5-point improvement scale", 
+      "Epidemiological predictors of poor outcomes", 
+      "Clinical predictors of poor outcomes", 
+      "Body temperature (°C) on admission", 
+      "Blood pressure (mmHg) on admission", 
+      "Pulse rate (beats per minute) on admission", 
+      "Respiratory rate (breaths per minute) on admission", 
+      "Peripheral oxygen saturation (%) on admission", 
+      "C reactive protein (CRP, m/gL)", 
+      "Procalcitonin (PCT, ng/mL)", 
+      "White Blood Count (WBC, cell/mm3)", 
+      "Neutrophils (cell/mm3)", 
+      "Lymphocytes (cell/mm3)", 
+      "Platelets (cell/mm3)", 
+      "L-lattato deidrogenasi (LDH, mU/ml)", 
+      "Creatine kinase (CK, U/L)", 
+      "D-dimer (μg/L)", 
+      "fibrinogen (g/L)", 
+      "ferritin (mcg/L)", 
+      "AST (U/L)", 
+      "ALT (U/L)", 
+      "Creatinine (mg/dl)", 
+      "Arterial blood gas anaysis pH", 
+      "Arterial blood gas anaysis pO2 (mmHg)", 
+      "Arterial blood gas anaysis pCO2 (mmHg)", 
+      "Arterial blood gas anaysis HCO3 (mmol/l)", 
+      "Arterial blood gas anaysis SpO2 (%)", 
+      "Host-related factors associated with the pathogenesis of COVID-19", 
+      "Virological factors associated with the pathogenesis of COVID-19", 
+      "Number of Participants with Adverse Events as a Measure of Safety and Tolerability", 
+      "Within-tester repeatability", 
+      "Between-tester reproducibility", 
+      "Pain intensity", 
+      "Pain intensity", 
+      "Change From Baseline in Symptom Severity", 
+      "Device- and/or Procedure-related Serious Adverse Events", 
+      "Physical Function (Measured by the FIM-motor)", 
+      "Recurrence Free Survival"
+    ],
+    "description": [
+      "HbA1c is the glycosylated fraction of haemoglobin A. It is measured to identify average blood glucose concentration over prolonged periods of time. Least squares (LS) mean change from baseline was analysed by mixed model repeated measures (MMRM) model with treatment, country, Dipeptidyl peptidase IV (DPPIV) (yes/no), Sodium-glucose Cotransporter-2 (SGLT2) (yes/no), baseline body mass index (BMI) \\[\\<30, \\>=30\\]), visit, and treatment by visit interaction as fixed effects and the baseline HbA1c as a covariate.",        
+      "The proportion of subjects surviving at 1 year was evaluated separately for each arm by the number of subjects alive at 1 year divided by the total number of subjects.", 
+      "Degree of improvement in melasma or lentigines at 3 months post-final treatment measured by 5-point improvement scale.",
+      "Epidemiological data including demographic data, contact with COVD-19 positive patients and onset of symptoms.", 
+      "Underlying chronic diseases, signs/symptoms related with COVID-19 diseases an clinical presentation on admission",
+      "Body temperature (°C)",       
+      "Blood pressure (mmHg)",
+      "Pulse rate (beats per minute)",
+      "Pulse rate (beats per minute)",
+      "Peripheral oxygen saturation (%)",
+      "CRP (m/gL)",
+      "PCT (ng/mL)",
+      "White Blood Count (WBC, cell/mm3)",
+      "Neutrophils (cell/mm3)",
+      "Lymphocytes (cell/mm3)",
+      "Platelets (cell/mm3)",
+      "LDH (mU/ml)",
+      "CK (U/L)",
+      "D-dimer (μg/L)",
+      "fibrinogen (g/L)",
+      "ferritin (mcg/L)",
+      "AST (U/L)",
+      "ALT (U/L)",
+      "Creatinine (mg/dl)",
+      "pH",
+      "pO2 (mmHg)",
+      "pCO2 (mmHg)",
+      "HCO3 (mmol/l)",
+      "SpO2 (%)",
+      "IL-6 (pg/mL)",
+      "Nasal and rectal swabs, fecal samples and blood samples",
+      "Renal denervation had been reported to cause a 30 mmHg fall in blood pressure when used in hypertension. Although in principle renal denervation might be favourable for physiology in chronic heart failure, numerous theoretical possibilities exist for the procedure causing deterioration in clinical status, including the possibility of a large fall in blood pressure.\n\nA deterioration in symptomatic status or occurrence of an event such as presyncope or syncope would be considered a primary outcome event.", 
+      "Comparison of wheal size (in mm) of skin reactions caused by a tester (duplicate skin pricking for each concentration of allergen administered)",
+      "Comparison of wheal size (in mm) of skin reactions caused by three different testers",
+      "Method of assessment - Visual analogue scale",
+      "Method of assessment - Visual analogue scale",
+      "Effectiveness will be assessed by the mean change in nasal symptoms using the 4-symptom rTNSS (reflective Total Nasal Symptom Score). The rTNSS is the sum of 4 individual patient-rated symptom scores for rhinorrhea, nasal congestion, nasal itching, and sneezing, each evaluated using a scale of 0=None",
+      "Method of assessment - Visual analogue scale",
+      "Safety will be evaluated based on the frequency of device- and/or procedure-related serious adverse events",
+      "Score on Functional Independence Measure (FIM) motor score, where 7 indicates total assistance/complete dependence and 91 is complete independence",
+      "Time from surgery to recurrence"
+    ],
+    "timeFrame": [
+      "Baseline, Week 26", 
+      "Up to 1 year from randomization", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "through study completion, an average of 3 months", 
+      "6 months",
+      "10 minutes post skin pricking",
+      "approximately 3 weeks (one week washout between tests)",
+      "At the beginning",
+      "5 weeks",
+      "through study completion, an average of 3 months",
+      "through study completion, an average of 3 months",
+      "Measured at weeks 0 and 12",
+      "Up to 3 years"
+    ]
+  },
+  "Eligibility_Criteria": {
+    "Healthy_Volunteers": [
+      "FALSE", "FALSE", "FALSE", "NA", "FALSE", 
+      "FALSE", "FALSE", "FALSE", "FALSE", "FALSE"
+    ],
+    "Sex": [
+      "ALL", "ALL", "ALL", "ALL", "ALL", 
+      "ALL", "ALL", "ALL", "ALL", "ALL"
+    ],
+    "Minimum_Age": [
+      18, 18, 20, "NA", "NA", 18, 16, 21, 60, 18
+    ],
+    "Maximum_Age": [
+      75, 65, 75, "NA", "NA", 80, 20, "NA", "NA", 100
+    ],
+    "Standardized_Ages": [
+      ["ADULT", "OLDER_ADULT"],
+      ["ADULT", "OLDER_ADULT"],
+      ["ADULT", "OLDER_ADULT"],
+      ["CHILD", "ADULT", "OLDER_ADULT"],
+      ["CHILD", "ADULT", "OLDER_ADULT"],
+      ["ADULT", "OLDER_ADULT"],
+      ["CHILD", "ADULT"],
+      ["ADULT", "OLDER_ADULT"],
+      ["ADULT", "OLDER_ADULT"],
+      ["ADULT", "OLDER_ADULT"]
+    ],
+    "IPD_Sharing": [
+      "YES", "UNDECIDED", "UNDECIDED", "UNDECIDED", "UNDECIDED", 
+      "NO", "NO", "NO", "YES", "NO"
+    ]
+  }
+}
